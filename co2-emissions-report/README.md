@@ -16,11 +16,15 @@ The report contains the following visualizations:
 - CO2 emissions by fuel or industry type and by sector
 
 ## Interactivity
-The report includes slicers to filter by year and tooltips to view emissions data for individual countries. Hovering over charts provides more details.
+The report includes slicers to filter by year and tooltips to view emissions data for individual countries. Hovering over yearly emission trends shows the year on year percentage increase for each country.
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-annual-growth.png?raw=true)
 
+Hovering over the annual CO2 emissions per year gives you the top 5 emitters for the year.
+
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-top-5.png?raw=true)
+
+Hovering over a country on the world map gives you a breakdown of CO2 emissions by sector.
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-sector.png?raw=true)
 
