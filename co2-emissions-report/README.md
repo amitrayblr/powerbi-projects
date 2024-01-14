@@ -6,7 +6,7 @@ This report visualizes global CO2 emissions data over time using Power BI. It in
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-report-main.png?raw=true)
 
 ## Data Sources
-The data for this report comes from CO2 and greenhouse gas emission data published by Our World in Data. It includes annual CO2 emissions estimates from 1750-2022, as well as C02 emissions broken down by fuel type & sector. 
+The data for this report comes from CO2 and greenhouse gas emission data published by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions). It includes annual CO2 emissions estimates from 1750-2022, as well as C02 emissions broken down by fuel type & sector. 
 
 ## Contents
 The report contains the following visualizations:
@@ -14,7 +14,6 @@ The report contains the following visualizations:
 - Yearly CO2 emissions and emission trends for all countries
 - Line charts comparing emission per capital of top 5 emitting countries 
 - CO2 emissions by fuel or industry type and by sector
-
 
 ## Interactivity
 The report includes slicers to filter by year and tooltips to view emissions data for individual countries. Hovering over charts provides more details.
