@@ -1,5 +1,5 @@
 # Power BI Projects
-This repository contains various Power BI reports and dashboards I have created for data analysis and visualization. Each report has its own folder with an indepth explanation, feel free to explore!
+This repository contains various Power BI reports and dashboards I have created for data analysis and visualization. Each report has its own folder with a brief explanation, feel free to explore!
 
 ## Contents
 The repository currently includes the following Power BI projects:
