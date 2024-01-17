@@ -1,4 +1,4 @@
-# Global CO2 Emissions Power BI Report
+# US Alternative Fuel Vehicle Sales Report
 
 ## Overview
 This report analyzes US sales and production data for electric vehicles, including Battery Electric Vehicles (BEVs), Plug-in Hybrid Electric Vehicles (PHEVs), and Hybrid Electric Vehicles (HEVs) using interactive visualizations. It also breaks down the number of vehicle registrations by fuel type. 
