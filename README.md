@@ -5,3 +5,4 @@ This repository contains various Power BI reports and dashboards I have created 
 The repository currently includes the following Power BI projects:
 
 - [Global CO2 Emissions Report](/co2-emissions-report): This interactive Power BI dashboard provides in-depth analysis and visualization of global and regional CO2 emissions data from 1950-2020.
+- [US Alternative Fuel Vehicle Sales Report](/us-afv-sales-report): This interactive Power BI dashboard provides in-depth analysis and visualization of data regarding production and registration of alternative fuel vehicles from 2011-2022.
