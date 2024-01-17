@@ -1,32 +1,34 @@
 # Global CO2 Emissions Power BI Report
 
 ## Overview
-This report visualizes global CO2 emissions data over time using Power BI. It includes interactive visualizations of total CO2 emissions globally as well as by country.
+This report analyzes US sales and production data for electric vehicles, including Battery Electric Vehicles (BEVs), Plug-in Hybrid Electric Vehicles (PHEVs), and Hybrid Electric Vehicles (HEVs) using interactive visualizations. It also breaks down the number of vehicle registrations by fuel type. 
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-report-main.png?raw=true)
 
 ## Data Sources
-The data for this report comes from CO2 and greenhouse gas emission data published by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions). It includes annual CO2 emissions estimates from 1750-2022, as well as CO2 emissions broken down by fuel type & sector. It is updated regularly, and also includes data on other greenhouse gases and other relevant metrics. 
+The data is compiled from [Alternative Fuels Data Centre](https://afdc.energy.gov/data) by the U.S. Department of Energy. The sites provides an extensive database of vehicle sales, registrations as well as other relevant metrics. 
 
 ## Contents
 The report contains the following visualizations:
-- Cumulative global CO2 emissions over time
-- Yearly CO2 emissions and emission trends for all countries
-- Line charts comparing emission per capital of top 5 emitting countries 
-- CO2 emissions by fuel or industry type and by sector
+- Electric vehicle sales data and trends from 2011-2022
+- The market gap between BEVs, PHEVs and HEVs
+- Production level analysis for Light Duty Vehicles by body type
+- State-level registration analysis by fuel type
+- Growth of public and private charging infrastructure
+- Best selling models by manufacturer
 
 ## Interactivity
-The report includes slicers to filter by year and tooltips to view emissions data for individual countries. Hovering over yearly emission trends shows the year on year percentage increase for each country.
+The report includes slicers to filter by year and tooltips to view certain metrics. Hovering over yearly vehicle sales shows you the top 10 most popular models of that year.
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-annual-growth.png?raw=true)
 
-Hovering over the annual CO2 emissions per year gives you the top 5 emitters for the year.
+Hovering over the manufacturer treemap gives you the most popular models by manufacturer.
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-top-5.png?raw=true)
 
-Hovering over a country on the world map gives you a breakdown of CO2 emissions by sector.
+Hovering over a state on the filled map gives you the total number of vehicles registered and a decomposition tree splitting the number of registrations by fuel type.
 
 ![Main Report](https://github.com/amitrayblr/powerbi-projects/blob/main/co2-emissions-report/Images/co2-emissions-sector.png?raw=true)
 
 ## Usage
-This report provides an easy way to analyze historical global and national CO2 emissions trends. It can help identify top emitting countries and regions over time. Filters allow custom analysis for specific years and countries.
+The report enables easy analysis of US electric vehicle sales, production trends and consumer adoption across states. Users can analyze specific EV models, body types and track adoption of electrified powertrains.
